@@ -44,7 +44,7 @@ for (var i in data) {
 }
 
 var table = Ti.UI.createTableView({
-	backgroundImage : '../images/background/backgroundClean.png',
+	backgroundImage : '../images/background/background.png',
 	backgroundColor : 'transparent',
 	top : -20,
 	left : -8,
@@ -56,7 +56,7 @@ var table = Ti.UI.createTableView({
 table.addEventListener("click", function(e) {
 
 	var win = Titanium.UI.createWindow({
-		backgroundImage : '../images/background/backgroundClean.png',
+		backgroundImage : '../images/background/background.png',
 		navBarHidden : false,
 		barColor : '#111',
 		url : "LojaInfo.js",

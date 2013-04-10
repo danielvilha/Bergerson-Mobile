@@ -25,15 +25,6 @@
 									"longitude": "-49.281917"
 								},
 								{
-									"nome": "SHOPPING PALLADIUM",
-									"telefone": "+55 41 3345-5070",
-									"fone": "04133455070",
-									"endereco": "Av. Pres. Kennedy, 4.121 - Piso: 3 - Lojas: 3084/3085",
-									"cep": "80610-170",
-									"latitude": "-25.476339",
-									"longitude": "-49.291053"
-								},
-								{
 									"nome": "BAZAAR FASHION",
 									"telefone": "+55 41 3244-1892",
 									"fone": "04132441892",

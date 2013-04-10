@@ -1,0 +1,700 @@
+{
+    "hotspot": [
+        {
+            "cidades": [
+                {
+                    "cidade": "NOVA YORK",
+                    "button": "but_hSpot3.png",
+                    "data": [
+                        {
+                            "title": "INSPIRAÇÃO ILIMITADA",
+                            "image": "NY_MEDIA_guggenheim.png",
+                            "text": "Projetado pelo gênio Frank Lloyd Wright, o Guggenheim New York é parada obrigatória para os apreciadores das artes. Sempre com exposições e eventos incríveis, além da fantástica coleção permanente, o museu é moderno, espaçoso e dinâmico. Um dos últimos destaques é a exibição Gutai: Splendid Playground, na qual o país recebe pela primeira vez peças do mais importante movimento japonês de arte coletiva, famoso nos anos 50 e 60 – em cartaz até 8 de maio.\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": "guggenheim.org",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "ITALIANO",
+                            "image": "NY_MEDIA_torrisi.png",
+                            "text": "Charmoso e intimista, o Torrisi Italian Specialties, na Mulberry Street, dispõe de apenas 12 lugares e serve o melhor da gastronomia italiana com uma pitada tipicamente norte-americana. Durante o dia, a casa oferece apenas sanduíches, mas à noite tudo se transforma: a luz âmbar é aconchegante, o cardápio é elaborado e o serviço, impecável. Foi apontado pelo renomado New York Times como o lugar certo para a perfeita gastronomia italiana e ganhou uma estrela no Guia Michelin 2013.\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": "torrisiny.com",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "EXPERIMENTE!",
+                            "image": "NY_MEDIA_experimentalcocktail.png",
+                            "text": "Escondido no Lower East Side, em cima de um restaurante chinês, o badalado Experimental Cocktail Club é fruto da parceria de três amigos de infância: Romée de Goriainoff, Olivier Bon e Pierre-Charles Cros, apelidados de Les Garçons. Secreta e disputadíssima, a casa exige reserva por e-mail para garantir a entrada e possui uma atmosfera tipicamente nova-iorquina, com pitadas francesas. Não deixe de pedir o inusitado St. Germain-des-Prés, que leva gim, licor de sabugueiro, clara de ovo, chili, lima e pepino.\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": "experimentalcocktailclubny.com",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "IT’S A NEW DAY",
+                            "image": "NY_MEDIA_clinton.png",
+                            "text": "Nada como começar o dia com uma deliciosa refeição, melhor ainda se for na Clinton St. Baking Company. Um dos melhores brunch spots da cidade, a padaria de ar familiar e caseiro possui clientes fiéis e oferece o que há de mais tradicional no café da manhã norte-americano: muitas panquecas, ovos, bacon e omeletes. A casa também lançou um livro, o Clinton St. Baking Company Cookbook: Breakfast, Brunch, & Beyond from New York’s Favorite Neighborhood Restaurant, com mais de 100 receitas que fizeram do local a sensação de Manhattan.\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": "clintonstreetbaking.com",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cidades": [
+                {
+                    "cidade": "PARIS",
+                    "button": "but_hSpot4.png",
+                    "data": [
+                        {
+                            "title": "CÉLÉBREZ LA BEAUTÉ",
+                            "image": "PR_MEDIA_delphine.png",
+                            "text": "Poucas coisas deixam a mulher tão reluzente quanto uma mudança no visual e o Studio 34 é especialista em deixar suas clientes ainda mais belas. O décor é delicado, a iluminação bem cuidada e as cadeiras do lavatório fazem uma relaxante massagem. Delphine Courteille, a talentosa cabeleireira por trás do charmoso salão, é habitué no backstage dos principais desfiles de moda de Paris, portanto está sempre por dentro das últimas técnicas e tendências. Costanza Pascolato e Consuelo Blocker são clientes fiéis.\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": "delphinecourteille.com",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "DOCES SURPRESAS",
+                            "image": "PR_MEDIA_smithbakery.png",
+                            "text": "Encantadora e surpreendente, a The Smiths Bakery é um verdadeiro paraíso açucarado com ares de loja de família. Bolos, biscoitos e sorvetes, entre outros docinhos, são cuidadosamente elaborados pelo chef pâtissier Jeremy Feuvrier diariamente. Localizada na Saint Germain des Prés, a charmosa padaria também oferece quitutes salgados e uma delicatessen. Não deixe de experimentar os deliciosos mini churros e o sorbet artesanal.\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": "thesmithsbakery.com",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "JOIA RARA",
+                            "image": "PR_MEDIA_maisondelatruffe.png",
+                            "text": "A clássica Maison de la Truffe acaba de completar 80 anos de dedicação às trufas. Para comemorar a ocasião, a casa lançou um livro no qual 14 chefs renomados dividem 80 receitas que levam o lendário produto como ingrediente principal. Parada obrigatória para os apreciadores de trufas, o restaurante oferece inúmeros pratos e sobremesas com a iguaria, além de possuir uma delicatessen anexa na qual é possível adquirir os produtos utilizados nas receitas.\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": "maison-de-la-truffe.com",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "ELEGÂNCIA SINGULAR",
+                            "image": "PR_MEDIA_hotelparadis.png",
+                            "text": "Discretamente localizado na Rue des Petites Écuries, o Hôtel Paradis combina perfeitamente a elegância francesa ao clássico estilo nórdico, com uma pitada do ar rústico de algumas cidades inglesas. O projeto é da renomada designer Dorothée Meilichzon e os 38 quartos são clássicos, clean, com detalhes nobres em mármore e couro, além de papéis de parede exclusivos que dão ainda mais charme ao ambiente.\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": "hotelparadisparis.com",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cidades": [
+                {
+                    "cidade": "MIAMI",
+                    "button": "but_hSpot1.png",
+                    "data": [
+                        {
+                            "title": "VISTA PRIVILEGIADA",
+                            "image": "MM_MEDIA_juvia.png",
+                            "text": "Perfeito para um drink no fim da tarde, o Juvia oferece um ambiente relax e descolado, além de uma das melhores vistas da cidade. Localizada no topo do famoso prédio 1111, no final da Lincoln Road, a casa é espaçosa e bem decorada, oferecendo culinária excepcional, que combina toques das cozinhas japonesa, francesa e peruana. Não deixe de experimentar um dos coquetéis exclusivos que o Juvia oferece.\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": "juviamiami.com",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "CREATIVITY RUSH",
+                            "image": "MM_MEDIA_wynwoodkitchenandbar.png",
+                            "text": "Localizado no badalado Design District, bairro dos artistas de Miami, o Wynwood Kitchen & Bar é a combinação perfeita de uma cozinha com influências latinas de qualidade e muita arte. Superdescolado, o ambiente foi customizado pelo famoso grafiteiro Shepard Fairey e pelo aclamado artista alemão Christian Awe. Tem tudo para ser um dos lugares mais cool da cidade.\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": "wynwoodkitchenandbar.com",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "ASIAN TREASURES",
+                            "image": "MM_MEDIA_hakkasan.png",
+                            "text": "Considerado um dos melhores restaurantes asiáticos do sul da Flórida, o premiado Hakkasan é especialista na fina culinária cantonesa. Localizado dentro do famoso hotel Fontainebleau, o ambiente possui iluminação intimista e encanta pela aura enigmática. Os chefs e sous chefs da casa vieram diretamente da Malásia e de Cingapura para comandar a cozinha com o máximo de autenticidade. O cardápio de bebidas é completíssimo e variado.\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": "fontainebleau.com",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "ACHADOS FASHION",
+                            "image": "MM_MEDIA_thewebster.png",
+                            "text": "A fashion expert Laure Heriard Dubreuil é responsável pelos três andares de pura tentação da The Webster Miami. Localizada num prédio histórico com estilo Art Déco de 20 mil metros quadrados, a loja reúne as melhores marcas e tendências da moda. Com clientes estrelados e marcas consagradas, o local é famoso por disponibilizar os melhores achados, além de oferecer peças exclusivas. Depois das compras, é possível relaxar no restaurant lounge, localizado no terraço e com vista para o mar. Entre os clientes assíduos, estão Kanye West, Katy Perry e Robert Downey Jr.\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": "thewebstermiami.com",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cidades": [
+                {
+                    "cidade": "MILÃO",
+                    "button": "but_hSpot2.png",
+                    "data": [
+                        {
+                            "title": "DESIGN GRANDIOSO",
+                            "image": "ML_MEDIA_excelsior.png",
+                            "text": "A Excelsior Milano consegue reunir as melhores características da cidade num único espaço. A concept store, localizada a um passo do Duomo, oferece em seus quatro mil metros quadrados, espalhados por sete andares, o melhor da moda, do design e da gastronomia milanesa. São inúmeras grifes, das conceituais às contemporâneas, além do Eat’s, um take out de luxo, bistrô, restaurante e da famosa Ladurée. O design do renomado arquiteto Jean Nouvel é um espetáculo à parte.\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": "excelsiormilano.com",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "FRESQUÍSSIMO",
+                            "image": "ML_MEDIA_alportomilano.png",
+                            "text": "Na opinião dos locais, o Al Porto é um verdadeiro clássico e serve um dos melhores peixes da cidade. Desenvolvido e dirigido pelo empresário Domenico Buonamici desde 1967, o restaurante serve uma grande variedade de frutos do mar e tem o peixe fresco como principal protagonista dos pratos preparados pelo chef Emilio Mola. A decoração supercharmosa é toda temática, no melhor estilo náutico. Não deixe de fazer reserva, já que a casa é disputada.\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": "alportomilano.it",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "SOGNI D’ORO",
+                            "image": "ML_MEDIA_armani.png",
+                            "text": "Localizado na Via Manzoni, considerado o coração do quadrilátero da moda e um dos endereços mais estilosos de Milão, o Armani Hotel foi pensado nos mínimos detalhes para proporcionar aos seus hóspedes uma inesquecível experiência de bem receber. Sofisticação e conforto dão o tom das 95 suítes cuidadosamente decoradas, que transparecem o estilo pessoal do estilista. O hotel ainda dispõe de suítes especiais assinadas pelo próprio Giorgio Armani, além de spa, restaurante, lounge bar, academia e business center com vista panorâmica da capital do design.\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": "milan.armanihotels.com",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "MAMMA MIA!",
+                            "image": "ML_MEDIA_mimmomilano.png",
+                            "text": "Para uma verdadeira experiência milanesa, nada melhor do que se deliciar com os sabores da clássica gastronomia italiana. Mimmo, dono do restaurante homônimo, faz com que todos os clientes sintam-se em casa com seu jeito acolhedor e divertido e é um dos motivos (além dos deliciosos pratos) do sucesso do ristorante. O ambiente é elegante, acolhedor e despretensioso, contando com um belo terraço, perfeito para os dias de verão.\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": "mimmomilano.it",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

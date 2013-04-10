@@ -3,7 +3,7 @@ var fileData = 'dados.txt';
 var file = Titanium.Filesystem.getFile(Titanium.Filesystem.resourcesDirectory, fileData);
 var data;
 
-win.backgroundImage = '../images/background/backgroundClean.png';
+win.backgroundImage = '../images/background/background.png';
 win.title = 'Lojas';
 
 var estados_data = [];
@@ -110,7 +110,7 @@ btMapa.addEventListener('click', function() {
 });
 
 var table = Ti.UI.createTableView({
-	backgroundImage : '../images/background/backgroundClean.png',
+	backgroundImage : '../images/background/background.png',
 	backgroundColor : 'transparent',
 	backgroundRepeat : false,
 	top : -8,
@@ -124,7 +124,7 @@ var table = Ti.UI.createTableView({
 table.addEventListener("click", function(e) {
 	if (e.source.hasChild) {
 		var win = Titanium.UI.createWindow({
-			backgroundImage : '../images/background/backgroundClean.png',
+			backgroundImage : '../images/background/background.png',
 			navBarHidden : false,
 			barColor : '#111',
 			url : "LojasTable.js",

@@ -20,7 +20,7 @@ var table = Ti.UI.createTableView({
 table.addEventListener("click", function(e) {
 	if (e.rowData.hasChild) {
 		var win = Titanium.UI.createWindow({
-			backgroundImage : '../images/background/backgroundClean.png',
+			backgroundImage : '../images/background/background.png',
 			navBarHidden : false,
 			barColor : '#111',
 			url : "LojasTable.js",

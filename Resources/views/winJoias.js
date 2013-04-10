@@ -14,7 +14,7 @@ var scrollableView = Ti.UI.createScrollableView({
 for (var file in imageRepository) {
 
 	// Define o tipo de arquivo que vai ler
-	if (imageRepository[file].split(".")[1] === "jpg") {
+	if (imageRepository[file].split(".")[1] === "jpeg") {
 		imageContainer.push(Titanium.UI.createImageView({
 			image : '../images/joias/' + imageRepository[file]
 		}));

@@ -1,9 +1,9 @@
-#appname: Bergerson Mobile
-#appid: com.megamidia.BergersonMobile
-#type: mobile
-#guid: 242b027d-8a61-48e9-8305-5c30c75fe88f
-#version: 1.0
-#publisher: not specified
-#url: not specified
-#image: appicon.png
-#desc: not specified
+#appname:Bergerson Mobile
+#appid:com.megamidia.BergersonMobile
+#type:mobile
+#guid:242b027d-8a61-48e9-8305-5c30c75fe88f
+#version:1.0
+#publisher:MegaMidia Group
+#url:http://www.megamidia.com.br
+#image:appicon.png
+#desc:Rádio Streaming Bergerson

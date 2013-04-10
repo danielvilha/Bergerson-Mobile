@@ -1,18 +1,15 @@
 // this sets the background color of the master UIView (when there are no windows/tab groups on it)
+Ti.Media.defaultAudioSessionMode = Ti.Media.AUDIO_SESSION_MODE_PLAYBACK;
 Titanium.UI.setBackgroundColor('#000');
 
 // create tab group
 var tabGroup = Titanium.UI.createTabGroup();
 
-//
-// create base UI tab and root window
-//
-
 //---------------------------------------------------winRadio Inicio-------------------------------------------
 var winRadio = Titanium.UI.createWindow({
 	navBarHidden : true,
 	orientationModes : [Ti.UI.PORTRAIT],
-	backgroundImage : 'images/background/backgroundRadio.png',
+	backgroundImage : 'images/background/background.png',
 	url : 'views/winRadio.js'
 });
 var tabRadio = Titanium.UI.createTab({
