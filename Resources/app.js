@@ -1,63 +1,25 @@
-// this sets the background color of the master UIView (when there are no windows/tab groups on it)
-Ti.Media.defaultAudioSessionMode = Ti.Media.AUDIO_SESSION_MODE_PLAYBACK;
-Titanium.UI.setBackgroundColor('#000');
+/*
+ * A tabbed application, consisting of multiple stacks of windows associated with tabs in a tab group.  
+ * A starting point for tab-based application with multiple top-level windows. 
+ * Requires Titanium Mobile SDK 1.8.0+.
+ * 
+ * In app.js, we generally take care of a few things:
+ * - Bootstrap the application with any data we need
+ * - Check for dependencies like device type, platform version or network connection
+ * - Require and open our top-level UI component
+ *  
+ */
 
-// create tab group
-var tabGroup = Titanium.UI.createTabGroup();
+//bootstrap and check dependencies
+if (Ti.version < 2.0 ) {
+    alert('Sorry - this application template requires Titanium Mobile SDK 2.0 or later');
+}
 
-//---------------------------------------------------winRadio Inicio-------------------------------------------
-var winRadio = Titanium.UI.createWindow({
-	navBarHidden : true,
-	orientationModes : [Ti.UI.PORTRAIT],
-	backgroundImage : 'images/background/background.png',
-	url : 'views/winRadio.js'
-});
-var tabRadio = Titanium.UI.createTab({
-	icon : 'radio.png',
-	title : 'Rádio',
-	window : winRadio
-});
-//---------------------------------------------------winJoias Inicio-------------------------------------------
-var winJoias = Titanium.UI.createWindow({
-	navBarHidden : true,
-	orientationModes : [Ti.UI.PORTRAIT],
-	url : 'views/winJoias.js'
-});
-var tabJoias = Titanium.UI.createTab({
-	icon : 'diamond.png',
-	title : 'Joias',
-	window : winJoias
-});
-//---------------------------------------------------winHspot Inicio-------------------------------------------
-var winHspot = Titanium.UI.createWindow({
-	title : 'Hot Spot',
-	navBarHidden : true,
-	orientationModes : [Ti.UI.PORTRAIT],
-	url : 'views/winHspot.js'
-});
-var tabHspot = Titanium.UI.createTab({
-	icon : 'hot.png',
-	title : 'Hotspot',
-	window : winHspot
-});
-//---------------------------------------------------winMapa Inicio--------------------------------------------
-var winMapas = Titanium.UI.createWindow({
-	navBarHidden : true,
-	orientationModes : [Ti.UI.PORTRAIT],
-	url : 'views/winLojas.js'
-});
-var tabMapas = Titanium.UI.createTab({
-	icon : 'map.png',
-	title : 'Nossas Lojas',
-	window : winMapas
-});
+// This is a single context application with mutliple windows in a stack
+(function() {
 
-
-//  add tabs
-tabGroup.addTab(tabRadio);
-tabGroup.addTab(tabJoias);
-tabGroup.addTab(tabHspot);
-tabGroup.addTab(tabMapas);
-
-// open tab group
-tabGroup.open();
+    var ApplicationTabGroup = require('ui/common/ApplicationTabGroup');
+    var theTabGroup = ApplicationTabGroup();
+    
+    theTabGroup.open();
+})();

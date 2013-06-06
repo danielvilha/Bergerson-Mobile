@@ -1,0 +1,700 @@
+{
+    "hotspot": [
+        {
+            "cidades": [
+                {
+                    "cidade": "NOVA YORK",
+                    "button": "but_hSpot3.png",
+                    "data": [
+                        {
+                            "title": "MIND AND BODY",
+                            "image": "NY_MEDIA_mindandbody.jpg",
+                            "text": "O mais recente projeto do grupo Aire nasce em meio a toda agitação da cidade de Nova York. O spa Aire Ancient Baths é um ambiente moderno e revigorante. Localizado no bairro Tribeca, utiliza o poder do relaxamento através da água. Silencioso e com uma leve iluminação a luz de velas, garante horas de tranquilidade e faz com que o cliente se desligue do mundo. Esse luxuoso spa oferece um circuito de várias piscinas – gelada, fria, quente e morna. Os clientes podem optar por massagens, rituais de banhos com vinhos e óleo de oliva ou flutuar na piscina de sal, com a mesma densidade do Mar Morto. \n\n\n\n\n\n\n",
+                            "url": "ancientbathsny.com/",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "SABOR DA TOSCANA",
+                            "image": "NY_MEDIA_sabordatoscana.png",
+                            "text": "Silvano Marchetto há 38 anos recebe seus clientes no Da Silvano, restaurante italiano que fica no Soho e é um must go da região. Para os amantes da culinária italiana, esse é um verdadeiro paraíso. O ambiente possui um décor que agrada e acolhe seus clientes na parte interna. Do lado de fora, há mesas dispostas nas calçadas. É badalado e muito bem frequentado – famosos como Anna Wintour estão sempre por lá. A dica é sentar sob o sol, saborear um delicioso Belini e degustar a melhor pasta italiana de Nova York. Se preferir apenas uma refeição rápida, os antepastos são incríveis. \n\n\n\n\n\n\n",
+                            "url": "dasilvano.com",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "CINCO ESTRELAS",
+                            "image": "NY_MEDIA_cincoestrelas.jpg",
+                            "text": "É no Upper East Side, na esquina da Madison Avenue com a 77 Street, que o The Mark Hotel recebe seus hóspedes. Com design moderno e inovador, possui serviço impecável e conforto inegável. O hotel conta com quartos sofisticados, academia, salão de beleza by Frederic Fekkai e um restaurante com receitas assinadas pelo chef Jean-Georges Vongerichten. Em abril de 2012, o hotel iniciou um serviço que oferece bicicletas aos hóspedes, juntamente com uma cesta para um agradável piquenique no Central Park. Os clientes podem levar para o passeio delícias de um menu elaborado pelo próprio Jean-Georges. \n\n\n\n\n\n\n",
+                            "url": "themarkhotel.com",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "IZAKAYA STYLE",
+                            "image": "NY_MEDIA_izakayastyle.jpg",
+                            "text": "Um dos lugares favoritos do estilista Alexander Wang em NY é o En Japanese Brasserie. O restaurante, que fica no West Village, é o lugar ideal para degustar o melhor da culinária japonesa. O cenário transporta seus clientes ao Japão, desde os cuidadosos detalhes em sua decoração, como o maravilhoso arranjo floral que fica no centro do restaurante, aos pratos servidos, criações do chef Abe Hiroki. A casa oferece um tofu artesanal, preparado diariamente, que é seu grande sucesso. Para acompanhar o jantar, não deixe de experimentar o shochu, bebida tradicional japonesa, e o famoso Ginger Cocktail. \n\n\n\n\n\n\n",
+                            "url": "enjb.com",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cidades": [
+                {
+                    "cidade": "PARIS",
+                    "button": "but_hSpot4.png",
+                    "data": [
+                        {
+                            "title": "BRASIL À VISTA",
+                            "image": "PR_MEDIA_brasilavista.png",
+                            "text": "A grande loja de departamentos parisiense Le Bon Marché está com uma exposição inteira dedicada ao Brasil, a Le Brésil Rive Gauche. Até o dia 22 de junho, será possível encontrar por lá produtos de grandes marcas do mundo da moda, como Adriana Barra, Pedro Lourenço e Isolda, entre outras. A gastronomia também ganha destaque, com aproximadamente 30 marcas selecionadas pela MIE Brasil e pela chef Helô Bacellar. Acontecerão ainda mostras culturais dos artistas Pedro Varela, Vincent Fournier e Bertrand Planes. Os produtos também estão à venda pela internet. \n\n\n\n\n\n\n",
+                            "url": "lebonmarche.com",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "REQUINTE",
+                            "image": "PR_MEDIA_requinte.jpg",
+                            "text": "Com três estrelas no Guia Michelin, o restaurante Guy Savoy é uma verdadeira explosão de sabores. Para o chef, “cozinhar é a arte de transformar instantaneamente produtos em prazer”. Saborear as receitas desse mestre é inesquecível. Enquanto aguarda pelo seu prato, aproveite para observar as belíssimas obras de arte espalhadas pelo ambiente, adquiridas pelo próprio Guy. E, para fechar com chave de ouro, experimente as sobremesas preparadas por Christian Boudard, que levam chocolate da melhor qualidade e merecem ser degustadas. \n\n\n\n\n\n\n",
+                            "url": "guysavoy.com",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "OLHAR PARA ARTE",
+                            "image": "PR_MEDIA_olharparaarte.png",
+                            "text": "Esta incrível galeria, fundada em 2006 por Alexandre de Metz e Paul-Antoine Briat, reúne imagens apreciadas por todos. A proposta é diferente, com a venda em maior escala do trabalho de fotógrafos de vários lugares do mundo. Um grupo de curadores seleciona meticulosamente as imagens que vão para a galeria e os fundadores dão a palavra final. Os temas são ecléticos e as fotos, todas originais, são de jovens fotógrafos e de nomes já conhecidos. Dentre os mais procurados estão Horst P. Horst e Formento Formento. \n\n\n\n\n\n\n",
+                            "url": "yellowkorner.com",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "PARA IMPRESSIONAR",
+                            "image": "PR_MEDIA_paraimpressionar.jpg",
+                            "text": "Philippe Starck e Claude Louzon uniram-se para a realização de um fascinante projeto, o Miss Ko. Inaugurado em fevereiro deste ano, na avenida George V, em Paris, o restaurante possui uma decoração moderna e instigante. Com muito neon, vídeos e jogos de luz, o lugar, inspirado em uma heroína, Miss Ko, narra sua história e ao mesmo tempo seduz e hipnotiza os visitantes. A culinária é um mix entre as cozinhas francesa e asiática. Muito criativo e ousado, o lugar desperta a curiosidade e os sentidos. Se estiver procurando por diversão, é o seu destino. \n\n\n\n\n\n\n",
+                            "url": "miss-ko.com",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cidades": [
+                {
+                    "cidade": "LONDRES",
+                    "button": "but_hSpot1.png",
+                    "data": [
+                        {
+                            "title": "TRADIÇÃO",
+                            "image": "LD_MEDIA_tradicao.jpg",
+                            "text": "Num prédio tradicional da St. James, no famoso Piccadilly Boulevard, encontra-se o The Wolseley, misto de café e restaurante. Ideal para um chá da tarde, café da manhã ou almoço, o local oferece delícias para todos os gostos, desde Eggs Benedict até o tradicional hambúrguer com fritas. Na decoração, influências venezianas e florentinas com colunas imponentes, arcos e escadarias remetem a uma atmosfera dos anos 20. \n\n\n\n\n\n\n",
+                            "url": "thewolseley.com",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "SHOEAHOLIC",
+                            "image": "LD_MEDIA_shoeaholic.jpg",
+                            "text": "A primeira flagship de Nicholas Kirkwood em Londres encontra-se no número 5 da Mount Street, no coração do Mayfair. O prédio histórico abriga também a sede da empresa e o estúdio de design de Nicholas. Projetada pelo próprio designer, a loja mistura elementos firmes e macios, criando um ambiente moderno e feminino por meio da quebra de conceitos das lojas de calçados tradicionais. \n\n\n\n\n\n\n",
+                            "url": "nicholaskirkwood.com",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "PATRONO DAS ARTES",
+                            "image": "LD_MEDIA_patronodasartes.jpg",
+                            "text": "O Southbank Centre, centro de artes e festivais, está localizado num terreno de 21 hectares na margem sul do Rio Tâmisa e abriga o Royal Festival Hall, o Queen Elizabeth Hall, o Purcell Room, a Galeria Hayward e a Biblioteca de Poesia Saison. No local, também encontram-se diversos restaurantes, bares e lojas. Criado em 1951 para o Festival da Grã-Bretanha, o espaço oferece uma gama de eventos culturais que misturam música, dança, arte e performances visuais. \n\n\n\n\n\n\n",
+                            "url": "southbankcentre.co.uk",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "PECULIAR",
+                            "image": "LD_MEDIA_peculiar.jpg",
+                            "text": "Um prédio construído em 1905 como unidade de geração de energia elétrica para os sistemas de bondes abriga hoje o restaurante Tramshed, do restaurateur Mark Hix. Adepto da filosofia “menos é mais”, Hix colocou apenas duas opções no cardápio: carne ou frango. Na decoração, o piso de concreto, as vigas de aço e as paredes de azulejos do projeto original permanecem. Duas obras – uma vaca e um galo – foram especialmente encomendadas de Damien Hirst e completam a atmosfera do local. \n\n\n\n\n\n\n",
+                            "url": "chickenandsteak.co.uk",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cidades": [
+                {
+                    "cidade": "SIDNEY",
+                    "button": "but_hSpot2.png",
+                    "data": [
+                        {
+                            "title": "ASIAN CUISINE",
+                            "image": "SN_MEDIA_asiancusine.png",
+                            "text": "O chef Tetsuya Wakuda, eleito como um dos chefs mais influentes do mundo em 2011 no congresso gastronômico Madri Fusion, comanda o restaurante Tetsuya’s. Localizado na Kent Street, coração de Sidney, o local transporta seus visitantes a um verdadeiro templo de serenidade japonês. A cozinha é baseada na filosofia oriental de usar sabores sazonais e naturais com um toque da técnica clássica francesa, característica do chef. \n\n\n\n\n\n\n",
+                            "url": "tetsuyas.com",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "OÁSIS URBANO",
+                            "image": "SN_MEDIA_oasisurbano.png",
+                            "text": "Frequentada por celebridades como Miranda Kerr, Kim Kardashian e Russel Brand, a Ivy é um oásis urbano em uma das ruas mais badaladas de Sidney. O ambiente remete aos famosos Rooftop Pool Clubs de Miami, mas oferece muito mais que isso com seus dez bares e restaurantes, espaços para compras e relaxamento. Aos domingos, os visitantes ainda podem desfrutar dos shows da Pacha Sydney, com mais de vinte dançarinos, projeções psicodélicas e a presença dos melhores DJs do mundo. \n\n\n\n\n\n\n",
+                            "url": "merivale.com.au/ivy",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "INSPIRAÇÃO NATURAL",
+                            "image": "SN_MEDIA_inspiracaonatural.png",
+                            "text": "Adornado pelas icônicas Opera House e Harbour Bridge, o restaurante Quay tem uma das vistas mais privilegiadas de Sidney. Mas a localização é apenas pano de fundo para as criações de Peter Gilmore, coroado chef do ano em 2012 pelo The Sydney Morning Herald. No ano passado, o restaurante também alcançou o número 29 na lista S. Pellegrino. Tudo isso graças a sua culinária inspirada pela natureza, com sobreposição de cores, sabores e texturas que surpreendem o paladar. \n\n\n\n\n\n\n",
+                            "url": "quay.com.au",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "HOTEL BOUTIQUE",
+                            "image": "SN_MEDIA_hotelboutique.png",
+                            "text": "No vibrante bairro de Darlinghurst, entre restaurantes, bares e discotecas, encontra-se o Kirketon Hotel, um hotel boutique com apenas 40 quartos e muito conforto. Na decoração, espelhos e tapetes vermelhos permeiam o saguão e corredores. Nos quartos, o minimalismo traz paz, calor e aconchego. O local oferece ainda o bar Eau De Vie, com uma das maiores adegas da cidade, e o restaurante asiático Fu Manchu. \n\n\n\n\n\n\n",
+                            "url": "8hotels.com",
+                            "color": "#EDDA74",
+                            "font": {
+                                "fontSize": 16,
+                                "fontFamily": "Times New Roman"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
