@@ -41,6 +41,8 @@ function WindowHotspot() {
             var i = e.source.index;
 
             var hotSpot = new HSpot(data[i].cidades[0]);
+            
+            //TODO: Resolver o problema da toolBar, ela volta para a tela inicial do Hotspot
 
             var flexSpace = Ti.UI.createButton({
                 systemButton : Ti.UI.iPhone.SystemButton.FLEXIBLE_SPACE
